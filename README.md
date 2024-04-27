@@ -1,4 +1,4 @@
-<img src="./images/method.svg" width="500px"></img>
+![left-right](https://github.com/Typing784/denoising-diffusion-pytorch/assets/43959746/176011a0-5be9-4183-a16b-b212509cb8ca)<img src="./images/method.svg" width="500px"></img>
 
 ## Denoising Diffusion Probabilistic Model for EEG Generation, in Pytorch 
 
@@ -47,9 +47,12 @@ trainer = Trainer1D(
 )
 trainer.train()
 ```
+## Result
+
+We conducted spectral analysis on the left-hand and right-hand classes of the generated EEG signals. As depicted in the above Figure, a distinct event-related synchronization (ERS) phenomenon is evident. In the spectrum of left-handed signals, electrodes C3 and P3 in the left brain hemisphere manifest higher energy, while in the spectrum of right-handed signals, electrodes C4 and P4 in the left brain hemisphere showcase higher energy. Notably, the ERS phenomenon is localized in the alpha band ([8, 14] Hz).
+
 ## Citation
 Yucun Zhong, Lin Yao, Yueming Wang, “Enhanced BCI Performance Using Diffusion Model for EEG Generation,” in 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Jul. 2024.
-
 
 ## Acknowledgment
 We thank Jonathan Ho et al for their wonderful works.
