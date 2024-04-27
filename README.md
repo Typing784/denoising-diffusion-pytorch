@@ -49,7 +49,7 @@ trainer = Trainer1D(
 trainer.train()
 ```
 ## Generated EEG
-<div align=center><img src="./images/left-right.svg" width="800px"></div>
+<div align=center><img src="./images/left-right.svg" width="500px"></div>
 We conducted spectral analysis on the left-hand and right-hand classes of the generated EEG signals. As depicted in the above Figure, a distinct event-related synchronization (ERS) phenomenon is evident. In the spectrum of left-handed signals, electrodes C3 and P3 in the left brain hemisphere manifest higher energy, while in the spectrum of right-handed signals, electrodes C4 and P4 in the left brain hemisphere showcase higher energy. Notably, the ERS phenomenon is localized in the alpha band ([8, 14] Hz).
 
 ## Citation
