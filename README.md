@@ -47,4 +47,22 @@ trainer = Trainer1D(
 )
 trainer.train()
 ```
+## Citation
+Yucun Zhong, Lin Yao, Yueming Wang, “Enhanced BCI Performance Using Diffusion Model for EEG Generation,” in 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Jul. 2024.
 
+
+## Acknowledgment
+We thank Jonathan Ho et al for their wonderful works.
+```bibtex
+@inproceedings{NEURIPS2020_4c5bcfec,
+    author      = {Ho, Jonathan and Jain, Ajay and Abbeel, Pieter},
+    booktitle   = {Advances in Neural Information Processing Systems},
+    editor      = {H. Larochelle and M. Ranzato and R. Hadsell and M.F. Balcan and H. Lin},
+    pages       = {6840--6851},
+    publisher   = {Curran Associates, Inc.},
+    title       = {Denoising Diffusion Probabilistic Models},
+    url         = {https://proceedings.neurips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf},
+    volume      = {33},
+    year        = {2020}
+}
+```
