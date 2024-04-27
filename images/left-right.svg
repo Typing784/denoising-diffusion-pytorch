@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 475.38 190.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: red;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-9, .cls-10, .cls-11 {
+        opacity: .5;
+        stroke-width: 2.07px;
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-13 {
+        fill: #262626;
+        font-size: 9.34px;
+      }
+
+      .cls-13, .cls-14, .cls-15 {
+        font-family: TimesNewRomanPSMT, 'Times New Roman';
+      }
+
+      .cls-3 {
+        stroke: #bfbf00;
+      }
+
+      .cls-14 {
+        font-size: 12px;
+      }
+
+      .cls-4 {
+        stroke: blue;
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        stroke: green;
+      }
+
+      .cls-7 {
+        stroke: #bf00bf;
+      }
+
+      .cls-8 {
+        stroke: #262626;
+        stroke-linecap: square;
+        stroke-width: .52px;
+      }
+
+      .cls-9 {
+        stroke: #0072bd;
+      }
+
+      .cls-10 {
+        stroke: #00bfbf;
+      }
+
+      .cls-15 {
+        font-size: 10.27px;
+      }
+
+      .cls-11 {
+        stroke: #404040;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-6" y="8.5" width="236.55" height="164.96"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-6" x="238.83" y="8.5" width="236.55" height="164.96"/>
+    </clipPath>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <g>
+      <g class="cls-16">
+        <rect class="cls-1" x="-5.2" y="-4.34" width="261.45" height="176.63"/>
+        <rect class="cls-1" x="29.04" y="8.88" width="202.31" height="135.39"/>
+        <line class="cls-8" x1="29.04" y1="144.28" x2="231.35" y2="144.28"/>
+        <line class="cls-8" x1="29.04" y1="144.28" x2="29.04" y2="140.23"/>
+        <line class="cls-8" x1="69.5" y1="144.28" x2="69.5" y2="140.23"/>
+        <line class="cls-8" x1="109.96" y1="144.28" x2="109.96" y2="140.23"/>
+        <line class="cls-8" x1="150.42" y1="144.28" x2="150.42" y2="140.23"/>
+        <line class="cls-8" x1="190.88" y1="144.28" x2="190.88" y2="140.23"/>
+        <line class="cls-8" x1="231.35" y1="144.28" x2="231.35" y2="140.23"/>
+        <text class="cls-13" transform="translate(26.7 156.78)"><tspan x="0" y="0">6</tspan></text>
+        <text class="cls-13" transform="translate(67.16 156.78)"><tspan x="0" y="0">8</tspan></text>
+        <text class="cls-13" transform="translate(105.29 156.78)"><tspan x="0" y="0">10</tspan></text>
+        <text class="cls-13" transform="translate(145.75 156.78)"><tspan x="0" y="0">12</tspan></text>
+        <text class="cls-13" transform="translate(186.22 156.78)"><tspan x="0" y="0">14</tspan></text>
+        <text class="cls-13" transform="translate(226.68 156.78)"><tspan x="0" y="0">16</tspan></text>
+        <text class="cls-15" transform="translate(97.51 169.95)"><tspan x="0" y="0">Frequency (Hz)</tspan></text>
+        <line class="cls-8" x1="29.04" y1="144.28" x2="29.04" y2="8.88"/>
+        <line class="cls-8" x1="29.04" y1="126.39" x2="33.08" y2="126.39"/>
+        <line class="cls-8" x1="29.04" y1="95.24" x2="33.08" y2="95.24"/>
+        <line class="cls-8" x1="29.04" y1="64.09" x2="33.08" y2="64.09"/>
+        <line class="cls-8" x1="29.04" y1="32.95" x2="33.08" y2="32.95"/>
+        <text class="cls-13" transform="translate(12.64 129.51)"><tspan x="0" y="0">-40</tspan></text>
+        <text class="cls-13" transform="translate(12.64 98.36)"><tspan x="0" y="0">-35</tspan></text>
+        <text class="cls-13" transform="translate(12.64 67.21)"><tspan x="0" y="0">-30</tspan></text>
+        <text class="cls-13" transform="translate(12.64 36.06)"><tspan x="0" y="0">-25</tspan></text>
+        <text class="cls-15" transform="translate(7.2 134.94) rotate(-90)"><tspan x="0" y="0">Log Power Spectral Density</tspan></text>
+        <polyline class="cls-2" points="29.01 128.73 29.04 128.69 49.27 95 69.5 72.02 89.73 61.92 109.96 58.88 130.19 60.84 150.42 59.97 170.65 60.34 190.88 60.23 211.12 62.08 231.35 60.38"/>
+        <polyline class="cls-5" points="29.01 126.07 29.04 126.02 49.27 93.31 69.5 65.73 89.73 50.82 109.96 39.65 130.19 28.24 150.42 23.93 170.65 29.06 190.88 41.83 211.12 53.43 231.35 56.96"/>
+        <polyline class="cls-4" points="29.01 128.98 29.04 128.93 49.27 89.17 69.5 57.06 89.73 40.29 109.96 37.19 130.19 33.05 150.42 36.77 170.65 42.17 190.88 47.82 211.12 56.03 231.35 58.93"/>
+        <polyline class="cls-11" points="29.01 120.34 29.04 120.29 49.27 84.85 69.5 63.28 89.73 50.57 109.96 45.32 130.19 49.64 150.42 52.69 170.65 57.17 190.88 60.82 211.12 62.98 231.35 66.19"/>
+        <polyline class="cls-3" points="29.01 123.22 29.04 123.17 49.27 87.93 69.5 54.98 89.73 41.57 109.96 39.58 130.19 37.14 150.42 43.2 170.65 49.98 190.88 53.5 211.12 57.03 231.35 59.29"/>
+        <polyline class="cls-7" points="29.01 129.26 29.04 129.23 49.27 97.85 69.5 75.46 89.73 63.71 109.96 60.08 130.19 63.15 150.42 64.27 170.65 65.17 190.88 64 211.12 61.86 231.35 60.54"/>
+        <polyline class="cls-9" points="29.01 123.75 29.04 123.7 49.27 86.41 69.5 62.49 89.73 44.05 109.96 38.03 130.19 38.22 150.42 37.27 170.65 42.48 190.88 52.75 211.12 56.67 231.35 59.95"/>
+        <polyline class="cls-10" points="29.01 128.01 29.04 127.96 49.27 89.24 69.5 59.85 89.73 42.65 109.96 38.12 130.19 36.96 150.42 41.13 170.65 49.1 190.88 53.86 211.12 55.01 231.35 56.29"/>
+      </g>
+      <g class="cls-12">
+        <rect class="cls-1" x="233.63" y="-4.34" width="261.45" height="176.63"/>
+        <rect class="cls-1" x="267.87" y="8.88" width="202.31" height="135.39"/>
+        <line class="cls-8" x1="267.87" y1="144.28" x2="470.18" y2="144.28"/>
+        <line class="cls-8" x1="267.87" y1="144.28" x2="267.87" y2="140.23"/>
+        <line class="cls-8" x1="308.33" y1="144.28" x2="308.33" y2="140.23"/>
+        <line class="cls-8" x1="348.79" y1="144.28" x2="348.79" y2="140.23"/>
+        <line class="cls-8" x1="389.25" y1="144.28" x2="389.25" y2="140.23"/>
+        <line class="cls-8" x1="429.72" y1="144.28" x2="429.72" y2="140.23"/>
+        <line class="cls-8" x1="470.18" y1="144.28" x2="470.18" y2="140.23"/>
+        <text class="cls-13" transform="translate(265.53 156.78)"><tspan x="0" y="0">6</tspan></text>
+        <text class="cls-13" transform="translate(305.99 156.78)"><tspan x="0" y="0">8</tspan></text>
+        <text class="cls-13" transform="translate(344.12 156.78)"><tspan x="0" y="0">10</tspan></text>
+        <text class="cls-13" transform="translate(384.58 156.78)"><tspan x="0" y="0">12</tspan></text>
+        <text class="cls-13" transform="translate(425.05 156.78)"><tspan x="0" y="0">14</tspan></text>
+        <text class="cls-13" transform="translate(465.51 156.78)"><tspan x="0" y="0">16</tspan></text>
+        <text class="cls-15" transform="translate(336.34 169.95)"><tspan x="0" y="0">Frequency (Hz)</tspan></text>
+        <line class="cls-8" x1="267.87" y1="144.28" x2="267.87" y2="8.88"/>
+        <line class="cls-8" x1="267.87" y1="125.44" x2="271.91" y2="125.44"/>
+        <line class="cls-8" x1="267.87" y1="95.14" x2="271.91" y2="95.14"/>
+        <line class="cls-8" x1="267.87" y1="64.85" x2="271.91" y2="64.85"/>
+        <line class="cls-8" x1="267.87" y1="34.55" x2="271.91" y2="34.55"/>
+        <text class="cls-13" transform="translate(251.47 128.56)"><tspan x="0" y="0">-40</tspan></text>
+        <text class="cls-13" transform="translate(251.47 98.26)"><tspan x="0" y="0">-35</tspan></text>
+        <text class="cls-13" transform="translate(251.47 67.96)"><tspan x="0" y="0">-30</tspan></text>
+        <text class="cls-13" transform="translate(251.47 37.66)"><tspan x="0" y="0">-25</tspan></text>
+        <text class="cls-15" transform="translate(246.03 134.94) rotate(-90)"><tspan x="0" y="0">Log Power Spectral Density</tspan></text>
+        <polyline class="cls-2" points="267.84 124.65 267.87 124.61 288.1 98.73 308.33 74.96 328.56 61.97 348.79 62.55 369.02 66.54 389.25 66.45 409.49 63.12 429.72 66.25 449.95 64.88 470.18 64.4"/>
+        <polyline class="cls-5" points="267.84 129.28 267.87 129.23 288.1 94.52 308.33 73.55 328.56 60.18 348.79 55.98 369.02 48.34 389.25 43.95 409.49 51 429.72 58.87 449.95 61.54 470.18 65.4"/>
+        <polyline class="cls-4" points="267.84 122.97 267.87 122.92 288.1 89.45 308.33 64.84 328.56 50.42 348.79 43.16 369.02 43.6 389.25 46.72 409.49 49.84 429.72 55.78 449.95 56.96 470.18 60.1"/>
+        <polyline class="cls-11" points="267.84 118.57 267.87 118.51 288.1 84.29 308.33 60.77 328.56 49.11 348.79 47.85 369.02 51.25 389.25 53.53 409.49 61.55 429.72 61.28 449.95 65.48 470.18 69.22"/>
+        <polyline class="cls-3" points="267.84 123.7 267.87 123.65 288.1 87.87 308.33 63.3 328.56 45.97 348.79 39.4 369.02 39.99 389.25 47.28 409.49 53.49 429.72 60.86 449.95 61.87 470.18 63.85"/>
+        <polyline class="cls-7" points="267.84 128.75 267.87 128.72 288.1 97.62 308.33 74.23 328.56 62.38 348.79 60.3 369.02 63.72 389.25 65.23 409.49 67.09 429.72 67.66 449.95 65.37 470.18 63.2"/>
+        <polyline class="cls-9" points="267.84 127.14 267.87 127.09 288.1 90.28 308.33 63.7 328.56 51.43 348.79 36.23 369.02 25.47 389.25 23.93 409.49 32.11 429.72 48.46 449.95 59.12 470.18 60.21"/>
+        <polyline class="cls-10" points="267.84 119.31 267.87 119.26 288.1 86.07 308.33 60.16 328.56 42.37 348.79 33.01 369.02 33.61 389.25 39.35 409.49 47.26 429.72 55.68 449.95 61.16 470.18 62.96"/>
+      </g>
+      <text class="cls-14" transform="translate(57.36 186.79)"><tspan x="0" y="0">(1) Spectrum of left hand </tspan></text>
+      <text class="cls-14" transform="translate(292.86 186.78)"><tspan x="0" y="0">(2) Spectrum of right hand </tspan></text>
+    </g>
+    <image width="1639" height="104" transform="translate(41.05) scale(.24)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABmUAAABlCAYAAAC8yeeMAAAACXBIWXMAAC4jAAAuIwF4pT92AAAHk0lEQVR4nO3dy20jRxAGYMlQIPKFTMM3p6FQGIrS8M1pkBcrExncBcGHhvPgdDe7ur8PMLyQyCVXqp/VMzWPFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICKvdb41jabzXcFbwMAAAAAAOjY4XBIOkf5QzEBAAAAAADk91bzz3i/31fwLgAAAAAAgJ5st9ss/1pnygAAAAAAABRgKAMAAAAAAFCAoQwAAAAAAEABhjIAAAAAAAAFGMoAAAAAAAAUYCgDAAAAAABQgKEMAAAAAABAAYYyAAAAAAAABRjKAAAAAAAAFGAoAwAAAAAAUIChDAAAAAAAQAGGMgAAAAAAAAW8+SHTg9fX19X/yu/v7x9fG/p7hx4HkYzl5bK+j4+bqncZIZql/WJJPcsDLUrZMyCCnH0Cosi1fT3m9JoyRUS510vyQc2esXaKkAlDGbpwCuHtB8EjO5THvv6iGRLUnGwcHzO3mcoIUS3pF5eZGKtneaA1qXsGRJKjT0A0qbevp+gnRFRqvSQf1K702ilKJly+jK4sDfTY2THH713+B1FdNqxTTd/Lw5xalxFaMKdmb49qG1r8yQOtSd0zIKpUfQIiS7F9PUVuiKjUekk+iKTE2ilSJgxlYMLQh8acr2mORHC7WJxjaSO99zUZoQXyQE9y9QxomQzANZmgddZLsE4veTCUgQWmru+pkRLJmp3A904/lRF6d5kJeaAlOXoG9EgOYD73IyOakusl+aAXrWbCUAZmOIVaw6NVqWpbRujR2OUIoEVqG5aRGbg295LIskNkOetXPmjd0vqOmAlDGchEg6RmKY7SXFvjMgJn8kDNaugZAAA1s14Clnjz0wLom4UfAHOl7BmP7LzQs2iJDMAwZwEQnbNkoJyomWhnKLPbVfAmKC7j7/2RUJ82rGr4MNj9KxM92v01/XtPeS3zqBnRMvqU6/f+aKZqycPn5+dTX5/n+Pj4mPW6JXrGWAYeuVnuWl9fmkSP3t/zbleMqS0DR1+7r2KvRT3ed+/Z3svc7eta77u0++e/Ct4Fpe3+/nPWK5baxq42H196Ro9273l7RsrH1cjlyyCRmgYyUCMZoQdz61se4DcZoDe3NS8D8JNcwH3yQW+maj5qJgxlYMDSSevl449/jjyphRxkhFY9UsvyAL9NbUA96wwBSGnsM14G6MWSI57VOgyTD3rRS89wTxm6tnZH2NjzNUyQEdp2W99Ldq4NfU8e4MzOaFqwtE9ckgEiWrN97SAVuE8+6MXctVMLmTCUoWtrw335fE0SfpIRWrHmSOehx8kD3GdnNBGl6BMnMkBUKbevAfmgbWvXTtEzYSgDA47BXrrDbOg5jnyGMxkhstR1Kg8AbfH5DfdNbV9bA8F98kGrHq3rVjLhnjKQkEYJ42QEzuQBfnKGAL2TAXrj7GG4Tz7gWkuZcKYM3PHoRtAjZ9lASbc1WvooAxmBM3mgdiV7hp3R9E4GaNmae+/de5ycUIvc6yX5gGstZKLKvQCbzebXT2m/3z//zdCcEoHUCKndmhvPpiAjRFCqTuWB2pXoGXJARCnrVgaIam3trjk4RVaoSY71knzQmog9Y7vd/vr/4XBIOkdxpgwAq7jGLQBz6RkAXJrTEwwt6c1pvSQfcK2lTLinDGSkIVKr29p89GiDtTvXZATO5IFa5e4ZczecXOqPVskAQHy1bGMDMRjKAHRqzaLx+FiLRYB+5OoZju6kdzIA0A7b2MBchjKwwKlJjjXW0/c0UiIYWjROLRzHalxG4EweaE2OnnEiA/RIBgDak3q9BLTJPWXoym0jXHMUwtBzNVIiOtbrUDbGzL2Op4wQVcp+ce/58kBEuXrGFJdtojap+8QUGaBGpXMAUTxrvQQ10zOuGcrQhVRHKd821tu/VxMlqsvaHcvLVI3LCNGlPKtFHmhVip6xdEcF1CJVn5ABInMWMExLtY0N0ekZwwxl6ELKcGuYtG5tjcsIkaWuX3mgdY/WuGwQVaralQEiK12/8kJ0OWtYPqidnjHMPWUAAAAAAAAKMJQBAAAAAAAowFAGAAAAAACgAEMZAAAAAACAAgxlAAAAAAAACjCUAQAAAAAAKMBQBgAAAAAAoABDGQAAAAAAgAIMZQAAAAAAAAowlAEAAAAAACjAUAYAAAAAAKAAQxkAAAAAAIACDGUAAAAAAAAKMJQBAAAAAAAo4K3mH/J2u63gXQAAAAAAAKznTBkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKCkl5eX/wGkrd8ExrzfKgAAAABJRU5ErkJggg=="/>
+  </g>
+</svg>
