@@ -2,7 +2,7 @@
 
 ## Denoising Diffusion Probabilistic Model for EEG Generation, in Pytorch 
 
-Implementation of <a href="https://arxiv.org/">Enhanced BCI Performance using Diffusion Model for EEG Generation</a> in Pytorch. This implementation was inspired by <a href="https://github.com/lucidrains/denoising-diffusion-pytorch">Enhanced BCI Performance using Diffusion Model for EEG Generation</a>.
+Implementation of <a href="https://arxiv.org/">Enhanced BCI Performance using Diffusion Model for EEG Generation</a> in Pytorch. This implementation was inspired by <a href="https://arxiv.org/abs/2006.11239">Denoising Diffusion Probabilistic Model</a>.
 
 ## Install
 
