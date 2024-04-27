@@ -1,4 +1,4 @@
-<img src="./images/noise-real-fake.png" width="500px"></img>
+<img src="./images/method.svg" width="500px"></img>
 
 ## Denoising Diffusion Probabilistic Model for EEG Generation, in Pytorch 
 
@@ -11,7 +11,7 @@ $ pip install denoising_diffusion_pytorch
 ```
 
 ## Usage
-
+```python
 import os
 import torch
 from denoising_diffusion_pytorch import Unet1D, GaussianDiffusion1D, Trainer1D, Dataset1D
@@ -46,5 +46,5 @@ trainer = Trainer1D(
    results_folder = f'./results',
 )
 trainer.train()
-
+```
 
