@@ -1,4 +1,5 @@
-<img src="./images/method.svg" width="500px"></img>
+
+<div align=center><img src="./images/method.svg" width="500px"></div>
 
 ## Denoising Diffusion Probabilistic Model for EEG Generation, in Pytorch 
 
@@ -28,7 +29,7 @@ model = Unet1D(
 
 diffusion = GaussianDiffusion1D(
     model,
-    seq_length = 128*5, # It should be changed according to the Fs and task duration.
+    seq_length = 128*5,      # It should be changed according to the Fs and task duration.
     timesteps = 1000,
     objective = 'pred_v'
 )
@@ -39,7 +40,7 @@ trainer = Trainer1D(
    dataset = dataset,
    train_batch_size = 800,
    train_lr = 8e-5,
-   train_num_steps = 10000,         # total training steps
+   train_num_steps = 10000,          # total training steps
    gradient_accumulate_every = 2,    # gradient accumulation steps
    ema_decay = 0.995,                # exponential moving average decay
    amp = True,                       # turn on mixed precision
@@ -48,7 +49,7 @@ trainer = Trainer1D(
 trainer.train()
 ```
 ## Result
-<img src="./images/left-right.svg" width="1000px"></img>
+<div align=center><img src="./images/left-right.svg" width="800px"></div>
 We conducted spectral analysis on the left-hand and right-hand classes of the generated EEG signals. As depicted in the above Figure, a distinct event-related synchronization (ERS) phenomenon is evident. In the spectrum of left-handed signals, electrodes C3 and P3 in the left brain hemisphere manifest higher energy, while in the spectrum of right-handed signals, electrodes C4 and P4 in the left brain hemisphere showcase higher energy. Notably, the ERS phenomenon is localized in the alpha band ([8, 14] Hz).
 
 ## Citation
