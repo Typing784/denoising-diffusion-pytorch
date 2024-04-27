@@ -1,4 +1,4 @@
-<img src="./images/denoising-diffusion.png" width="500px"></img>
+<img src="./images/noise-real-fake.png" width="500px"></img>
 
 ## Denoising Diffusion Probabilistic Model for EEG Generation, in Pytorch 
 
