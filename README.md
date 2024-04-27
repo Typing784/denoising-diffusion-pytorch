@@ -33,7 +33,7 @@ diffusion = GaussianDiffusion1D(
     objective = 'pred_v'
 )
 
-dataset = Dataset1D(EEG-data)  # EEGdata for the left-hand MI or the right-hand MI.
+dataset = Dataset1D(EEGdata)  # EEGdata for the left-hand MI or the right-hand MI.
 trainer = Trainer1D(
    diffusion,
    dataset = dataset,
